@@ -57,6 +57,7 @@ Envoyez-moi un courriel ou trouvez-moi sur Keybase! On s'en jase.
 
 ## Associations et regroupements
 * [Association québécoise pour la douance](http://www.aqdouance.org/)
+* [Haut potentiel Québec](https://hautpotentielquebec.org/) (ça a l'air orienté vers les enfants)
 
 ## Meta / À propos de ce document
 Github est une plate-forme où des gens peuvent collaborer sur des documents (habituellement du code et des logiciels open-source, mais des documents comme celui-ci, ça compte!). 
