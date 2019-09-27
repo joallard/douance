@@ -5,7 +5,7 @@
 *Autre note: cette liste est surtout focussée sur les adultes, parce que la douance, c'est pas juste l'école! *micdrop**
 
 ## La douance
-C'est une façon différente de penser et de vivre le monde, à un niveau neurologique. Elle est aussi appelée *haut potentiel*.
+C'est d'avoir un fonctionnement cérébral différent à un niveau neurologique. Les gens qui l'ont manifestent parfois des traits qui leur permettent de mieux performer dans des tâches mentales. On dit parfois que "les fils sont pas branchés pareil". Elle est aussi appelée *haut potentiel*. *(Note éditoriale: Un jour on va s'entendre sur une meilleure appelation)*
 
 Des individus qui généralement:
 
