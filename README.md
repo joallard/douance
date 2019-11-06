@@ -1,6 +1,6 @@
 # Liste de ressources sur la douance
 
-*Caveat emptor: Ceci est un gros work-in-progress. C'est aussi écrit d'une perspective personnelle, centrée à Montréal au Québec, et non-vérifié par un·e professionnel·le de la psychologie. (Pour faire un parallèle, c'est écrit par un patient et non un docteur.) Ça se peut que je me trompe, et ça se peut qu'il y ait des erreurs. Mais, si vous en trouvez, Github est un excellent endroit pour suggérer des corrections! Bonne lecture!*
+*Caveat emptor: Ceci est un work-in-progress. C'est aussi écrit d'une perspective personnelle, centrée à Montréal au Québec, et non-vérifié par un·e professionnel·le de la psychologie. (Pour faire un parallèle, c'est écrit par un patient et non un·e docteur·e.) Ça se peut que je me trompe, et ça se peut qu'il y ait des erreurs. Mais, si vous en trouvez, je vous invite à suggérer une [correction](#corrections)! Bonne lecture!*
 
 *Autre note: cette liste est surtout focussée sur les adultes, parce que la douance, c'est pas juste l'école! *micdrop**
 
@@ -60,6 +60,12 @@ Envoyez-moi un courriel ou trouvez-moi sur Keybase! On s'en jase.
 * [Haut potentiel Québec](https://hautpotentielquebec.org/) (ça a l'air orienté vers les enfants)
 
 ## Meta / À propos de ce document
-Github est une plate-forme où des gens peuvent collaborer sur des documents (habituellement du code et des logiciels open-source, mais des documents comme celui-ci, ça compte!). 
+<a id="corrections"></a>Pour suggérer des améliorations à ce document ou signaler une erreur:
 
-Vous pouvez signaler un problème, une erreur ou suggérer des améliorations dans la section *Issues*.
+* Créez un [Issue][91]/[Pull Request][92] sur Github
+* Envoyez-moi un courriel
+
+Github est une plate-forme où des gens peuvent collaborer sur des documents (habituellement du code et des logiciels open-source, mais des documents comme celui-ci, ça compte!).
+
+[91]: https://github.com/joallard/douance/issues
+[92]: https://github.com/joallard/douance/pulls
