@@ -62,7 +62,7 @@ Envoyez-moi un courriel ou trouvez-moi sur Keybase! On s'en jase.
 * [Association québécoise pour la douance](http://www.aqdouance.org/)
 * [Haut potentiel Québec](https://hautpotentielquebec.org/) (ça a l'air orienté vers les enfants)
 
-## Meta / À propos de ce document
+## Meta / À propos de ce document / Corrections
 <a id="corrections"></a>Pour suggérer des améliorations à ce document ou signaler une erreur:
 
 * Créez un [Issue][91]/[Pull Request][92] sur Github
