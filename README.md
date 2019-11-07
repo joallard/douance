@@ -39,7 +39,10 @@ L'évaluation est faite par un·e psychologue/neuropsychologue. Cherchez un·e p
 
 Une évaluation neuropsychologique coûte généralement au privé 1500-2000$ et les listes d'attentes sont de quelques mois.
 
-*(Est-ce possible au public?)*
+## La double exceptionnalité
+La double exceptionnalité (2e, angl. *twice-exceptional*) se dit d'une personne en douance et qui présente en plus un trouble qui interfère avec le fonctionnement. Ça peut se présenter avec le trouble de déficit d'auto-régulation (TDAH), le trouble de spectre de l'autisme (TSA), la dyslexie, le trouble obsessif-compulsif, etc.
+
+Le dépistage et le diagnostic du 2e sont particulièrement épineux, parce que un atténue ou compense souvent l'autre: la douance peut cacher le trouble, le trouble peut cacher la douance, ou les deux peuvent s'entre-cacher, ce qui donne de fausses impressions. Beaucoup de gens sont au courant de seulement une des deux conditions et ne sont jamais traités ou adaptés en fonction de leur disposition. Ça crée aussi un grand potentiel de mauvais diagnostics. Sans mentionner que la recherche sur les 2e (et doués) est encore relativement jeune, et que la connaissance est encore trop peu répandue à ce propos parmi les professionnel·le·s de la santé.
 
 ## Communauté
 Être en douance dans une société faite pour les neurotypiques, c'est isolant, c'est difficile.
